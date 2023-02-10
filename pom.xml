@@ -4,6 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <!-- This is a test line to see if jenkins will be triggered. -->
   <!-- Test -->
+<!-- test2 -->
   <!--  See http://maven.apache.org/pom.html for a full description of all supported values -->
 
   <!-- GroupID - identifies WHO is making the project -->
